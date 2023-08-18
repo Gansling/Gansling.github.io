@@ -1,0 +1,10 @@
+* {
+    background-color: black;
+    color: white;
+}
+#title {
+    color: goldenrod;
+}
+.paragraph {
+    text-indent: 25px;
+}
